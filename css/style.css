@@ -1,0 +1,48 @@
+.send-button {
+    width: 160px;
+    height: 45px;
+    background: linear-gradient(to right, #4776E6, #8E54E9);
+    border: none;
+    color: #ffffff;
+    font-family: "Barlow", sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 15px 0 27px 0;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.send-button:hover {
+    background: linear-gradient(to right, #8E54E9, #4776E6);
+}
+
+.upload_btn_fix {
+    text-transform: uppercase !important;
+    padding: 12px 0 !important;
+    text-align: center !important;
+}
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+/*
+
+.btn {
+    border: 2px solid gray;
+    color: gray;
+    background-color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}*/
